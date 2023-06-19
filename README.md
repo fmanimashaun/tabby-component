@@ -11,6 +11,10 @@ Responsive Design: The application is designed to be responsive and can adapt to
 
 > [Live Demo Link](https://fmanimashaun.github.io/tabby-component/)
 
+## Demo
+
+![screenshot](./src/assets/img/demo.gif)
+
 ## Installation
 To install and run this project locally, you'll need to have Node.js and npm installed. Follow these steps:
 
