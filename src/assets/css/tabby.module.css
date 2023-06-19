@@ -71,6 +71,7 @@
 .body__text {
   font-size: 1.2rem;
   line-height: 1.5;
+  margin-bottom: 1rem;
 }
 
 .logo {
@@ -82,6 +83,7 @@
 .link {
   text-decoration: none;
   border-bottom: 1px solid #551A9A;
+  color: #551A9A;
 }
 
 .link img {
