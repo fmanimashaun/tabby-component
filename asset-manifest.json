@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tabby-component/static/css/main.7db732b3.css",
+    "main.js": "/tabby-component/static/js/main.633b1744.js",
+    "static/media/Tamagotchi.png": "/tabby-component/static/media/Tamagotchi.4c6a138ca7c8b0ebc6b3.png",
+    "static/media/digimon.png": "/tabby-component/static/media/digimon.a80ee5976a9f004da3d4.png",
+    "static/media/pokemon.png": "/tabby-component/static/media/pokemon.a596c0992e16f4d8553a.png",
+    "index.html": "/tabby-component/index.html",
+    "static/media/arrow.svg": "/tabby-component/static/media/arrow.8e82a160ccac2eba5f541237227c05e2.svg",
+    "main.7db732b3.css.map": "/tabby-component/static/css/main.7db732b3.css.map",
+    "main.633b1744.js.map": "/tabby-component/static/js/main.633b1744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db732b3.css",
+    "static/js/main.633b1744.js"
+  ]
+}
