@@ -14,7 +14,7 @@ Responsive Design: The application is designed to be responsive and can adapt to
 ## Installation
 To install and run this project locally, you'll need to have Node.js and npm installed. Follow these steps:
 
-Clone the repository: `git clone https://github.com/fmanimashaun/tabby-component.git`
+Clone the repository: `git clone https://github.com/fmanimashaun/tabby-component.git
 Navigate to the project folder: `cd tabby-component`
 Install the dependencies: `npm install`
 Start the project: `npm start`
